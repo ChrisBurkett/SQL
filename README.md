@@ -19,12 +19,12 @@ PowerShell script that walks the user through "zeroing out" (wiping) any drives 
 <h2>Navigating MySQL:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Creating a Databes and Listing the Databases available: <br/>
 <img src="https://i.imgur.com/cPtXXSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Using a entity relationship diagram (ERD) as a reference, I created the following tables with the appropriate attributes and keys:  <br/>
+<img src="https://i.imgur.com/SszxVNY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
