@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of a simple walkthough of MySQL.  Creating a new database, building and using a Entity Relationship Diagram (ERD), manually add 10 records in a table, create a new SQL View
+Project consists of a simple walkthough of MySQL.  Creating a new database, using a Entity Relationship Diagram (ERD), manually adding records in a table, create new SQL Views.
 
 PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 <br />
@@ -43,8 +43,7 @@ Created a new view of the Customers Tables. To make the terminology match the RM
 <img src="https://i.imgur.com/2Fs7Hin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
