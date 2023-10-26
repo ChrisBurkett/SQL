@@ -39,8 +39,8 @@ Created an RMA table as reqeusted on the entity relationship diagram ERD:  <br/>
 <img src="https://i.imgur.com/9s5tCfg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created a new view of the Customers Tables. To make the terminology match the RMA desk terminology.:  <br/>
+<img src="https://i.imgur.com/2Fs7Hin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
