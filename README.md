@@ -35,8 +35,8 @@ Created an RMA table as reqeusted on the entity relationship diagram ERD:  <br/>
 <img src="https://i.imgur.com/BcG0LjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3.	Manually add 10 records into the Customers table:  <br/>
+<img src="https://i.imgur.com/9s5tCfg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
