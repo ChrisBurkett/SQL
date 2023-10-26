@@ -27,8 +27,8 @@ Using a entity relationship diagram (ERD) as a reference, I created the followin
 <img src="https://i.imgur.com/SszxVNY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created a table requested by Customer Service. Using a Primary Key to link data with foreign keys to build a usable table: <br/>
+<img src="https://i.imgur.com/U4ZYIjE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
