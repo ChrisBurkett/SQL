@@ -31,8 +31,8 @@ Created a table requested by Customer Service. Using a Primary Key to link data 
 <img src="https://i.imgur.com/U4ZYIjE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created an RMA table as reqeusted on the entity relationship diagram ERD:  <br/>
+<img src="https://i.imgur.com/BcG0LjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
