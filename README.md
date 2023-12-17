@@ -32,7 +32,7 @@ Created an RMA table as reqeusted on the entity relationship diagram ERD:  <br/>
 <img src="https://i.imgur.com/BcG0LjL.png" height="80%" width="80%" alt="RMA"/>
 <br />
 <br />
-3.	Manually add 10 records into the Customers table:  <br/>
+Manually add 10 records into the Customers table:  <br/>
 <img src="https://i.imgur.com/9s5tCfg.png" height="80%" width="80%" alt="Records"/>
 <br />
 <br />
